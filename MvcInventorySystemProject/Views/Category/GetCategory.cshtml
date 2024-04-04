@@ -1,0 +1,22 @@
+﻿@model MvcInventorySystemProject.Models.Entity.Tbl_Categories
+
+@{
+    ViewBag.Title = "GetCategory";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("Update", "Category", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(x => x.CategoryID)
+        @Html.TextBoxFor(x => x.CategoryID, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(x => x.CategoryName)
+        @Html.TextBoxFor(x => x.CategoryName, new { @class = "form-control" })
+    </div>
+
+    <div>
+        <button class="btn btn-success">Update</button>
+    </div>
+}
+

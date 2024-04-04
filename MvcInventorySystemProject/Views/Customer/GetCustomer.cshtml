@@ -1,0 +1,25 @@
+﻿@model MvcInventorySystemProject.Models.Entity.Tbl_Customers
+
+@{
+    ViewBag.Title = "GetCustomer";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+@using (Html.BeginForm("Update", "Customer", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(x => x.CustomerID)
+        @Html.TextBoxFor(x => x.CustomerID, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(x => x.CustomerName)
+        @Html.TextBoxFor(x => x.CustomerName, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(x => x.CustomerSurname)
+        @Html.TextBoxFor(x => x.CustomerSurname, new { @class = "form-control" })
+    </div>
+
+    <div>
+        <button class="btn btn-success">Update</button>
+    </div>
+}
+

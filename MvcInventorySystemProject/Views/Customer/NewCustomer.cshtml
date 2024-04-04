@@ -1,0 +1,32 @@
+﻿@model MvcInventorySystemProject.Models.Entity.Tbl_Customers
+
+@{
+    ViewBag.Title = "NewCustomer";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<form class="form-group" method="post">
+    @*<div>
+            <label>Customer Name</label>
+            <input type="text" class="form-control" name="CustomerName" />
+        </div>*@
+    <div>
+        <label>Customer Name</label>
+        @Html.TextBoxFor(x => x.CustomerName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.CustomerName, "", new { @style = "color: red" })
+    </div>
+    <div>
+        <label style="margin-top: 20px">Customer Surname</label>
+        <input type="text" class="form-control" name="CustomerSurname" />
+    </div>
+    <div>
+        <button style="margin-top: 20px" class="btn btn-info">Add Customer</button>
+    </div>
+</form>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <script type="text/javascript">
+    alert('@TempData["SuccessMessage"]');
+    </script>
+}

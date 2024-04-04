@@ -1,0 +1,41 @@
+﻿@model MvcInventorySystemProject.Models.Entity.Tbl_Products
+
+@{
+    ViewBag.Title = "NewProduct";
+    Layout = "~/Views/Shared/_MainLayout.cshtml";
+}
+
+<form class="form-group" method="post">
+    <div>
+        <label>Product Name</label>
+        <input type="text" class="form-control" name="ProductName" required="" maxlength="50" />
+    </div>
+    <div>
+        <label style="margin-top: 20px">Brand</label>
+        <input type="text" class="form-control" name="Brand" required="" placeholder="Buraya markayı yazınız.." />
+    </div>
+    <div>
+        <label style="margin-top: 20px">Product Category</label>
+        @Html.DropDownListFor(model => model.ProductCategory, (List<SelectListItem>)ViewBag.prd, "Select Category", new { @class = "form-control" })
+
+    </div>
+    <div>
+        <label style="margin-top: 20px">Price</label>
+        <input type="text" class="form-control" name="Price" />
+    </div>
+    <div>
+        <label style="margin-top: 20px">Remaining Stock</label>
+        <input type="text" class="form-control" name="Stock" />
+    </div>
+    <div>
+        <button style="margin-top: 20px" class="btn btn-info">Add Product</button>
+    </div>
+</form>
+
+@if (TempData["SuccessMessage"] != null)
+{
+    <script type="text/javascript">
+    alert('@TempData["SuccessMessage"]');
+    </script>
+}
+

@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_4\\mvcinventorysystemproject\\mvcinventorysystemproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|solutionrelative:mvcinventorysystemproject\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_4\\mvcinventorysystemproject\\mvcinventorysystemproject\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|solutionrelative:mvcinventorysystemproject\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_4\\mvcinventorysystemproject\\mvcinventorysystemproject\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|solutionrelative:mvcinventorysystemproject\\views\\sales\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_4\\mvcinventorysystemproject\\mvcinventorysystemproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|solutionrelative:mvcinventorysystemproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_4\\mvcinventorysystemproject\\mvcinventorysystemproject\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|solutionrelative:mvcinventorysystemproject\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_4\\mvcinventorysystemproject\\mvcinventorysystemproject\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|solutionrelative:mvcinventorysystemproject\\controllers\\salescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_4\\mvcinventorysystemproject\\mvcinventorysystemproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|solutionrelative:mvcinventorysystemproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_4\\mvcinventorysystemproject\\mvcinventorysystemproject\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|solutionrelative:mvcinventorysystemproject\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|c:\\users\\emirh\\onedrive\\masa\u00FCst\u00FC\\projects\\mvc_boost\\mvckamp_4\\mvcinventorysystemproject\\mvcinventorysystemproject\\views\\product\\newproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6692FA2E-72D2-4581-B66C-29F640CB8B71}|MvcInventorySystemProject\\MvcInventorySystemProject.csproj|solutionrelative:mvcinventorysystemproject\\views\\product\\newproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcInventorySystemProject\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "MvcInventorySystemProject\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T21:32:09.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MvcInventorySystemProject\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MvcInventorySystemProject\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAewBMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T21:19:52.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "MvcInventorySystemProject\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "MvcInventorySystemProject\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:39:30.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Sales\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcInventorySystemProject\\Views\\Sales\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Sales\\Index.cshtml",
+              "RelativeToolTip": "MvcInventorySystemProject\\Views\\Sales\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:39:04.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesController.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Controllers\\SalesController.cs",
+              "RelativeDocumentMoniker": "MvcInventorySystemProject\\Controllers\\SalesController.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Controllers\\SalesController.cs",
+              "RelativeToolTip": "MvcInventorySystemProject\\Controllers\\SalesController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:33:29.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcInventorySystemProject\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MvcInventorySystemProject\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:08:07.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MvcInventorySystemProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MvcInventorySystemProject\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T20:19:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Product\\NewProduct.cshtml",
+              "RelativeDocumentMoniker": "MvcInventorySystemProject\\Views\\Product\\NewProduct.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Product\\NewProduct.cshtml",
+              "RelativeToolTip": "MvcInventorySystemProject\\Views\\Product\\NewProduct.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:08:01.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Product\\GetProduct.cshtml",
+              "RelativeDocumentMoniker": "MvcInventorySystemProject\\Views\\Product\\GetProduct.cshtml",
+              "ToolTip": "C:\\Users\\emirh\\OneDrive\\Masa\u00FCst\u00FC\\projects\\MVC_Boost\\MvcKamp_4\\MvcInventorySystemProject\\MvcInventorySystemProject\\Views\\Product\\GetProduct.cshtml",
+              "RelativeToolTip": "MvcInventorySystemProject\\Views\\Product\\GetProduct.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:07:52.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
